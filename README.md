@@ -9,7 +9,7 @@ Step 1: Prompt the user to input ten integers between 1 and 100, and initilaize 
 Step 2: As the user enters each new integer, compare it to smallestValue (initialized at 100) and the largestValue (initialized at 0). If the value is smaller than smallestValue, it should replace smallestValue. If the value is larger than largestValue, it should replace largestValue. 
 
 
-Step 3: At the end of each iteration, the user's input should be added to runningTotal
+Step 3: At the end of each iteration, the user's input should be added to runningTotal.
 
 Step 4: Once all ten integers have been entered and correctly assigned, the program shoud exit the for-loop and divide the runningTotal by 10.0 to compute the average. 
 
